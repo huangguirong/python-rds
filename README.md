@@ -12,6 +12,6 @@ etime=`date +%F`'T15:59Z'
 >>>>>>> 330c8f32b15c118f8dc3dab86c637e4339929523
 
 rds_ids是实例id
-# zhixing
+####
 
 sh forr.sh
